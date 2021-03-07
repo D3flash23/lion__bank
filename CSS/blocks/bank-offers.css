@@ -52,9 +52,8 @@
 .bank-offers__header-img {
 	position: absolute;
 	left: 50%;
-	top: 27%;
-	margin-left: -44px;
-	;
+	top: 50%;
+	transform: translate(-50%, -50%);
 }
 
 .bank-offers__content {
