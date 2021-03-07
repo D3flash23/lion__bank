@@ -6,7 +6,7 @@
 .service {
 	display: flex;
 	text-decoration: none;
-	padding: 98px 0px 22px 30px;
+	padding: 94px 0px 22px 0px;
 }
 
 .service:hover {
