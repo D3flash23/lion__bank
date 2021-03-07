@@ -6,7 +6,7 @@
 .service {
 	display: flex;
 	text-decoration: none;
-	padding: 94px 0px 22px 0px;
+	padding: 93px 0px 0px 0px;
 }
 
 .service:hover {
@@ -37,5 +37,5 @@
 }
 
 .services__item:nth-child(1) {
-	padding-bottom: 44px;
+	padding-bottom: 17px;
 }
