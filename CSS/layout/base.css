@@ -61,7 +61,7 @@ p {
 }
 
 .main-page-wrapper {
-	background: url(/img/decor/lion-header.png) center top no-repeat, url(/img/decor/lion-back.png) right bottom 307px no-repeat;
+	background: url(../../img/decor/lion-header.png) center top no-repeat, url(../../img/decor/lion-back.png) right bottom 307px no-repeat;
 }
 
 .container {
