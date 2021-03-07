@@ -1,0 +1,29 @@
+.footer {
+
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+}
+
+.footer-container__section {
+	min-height: 150px;
+
+}
+
+.footer__col {
+	display: flex;
+	align-items: center;
+}
+
+.footer__col--align--right {
+	align-items: flex-end;
+}
+
+.footer-container__content {
+	margin-top: auto;
+}
+
+.footer-container__content {
+	border-top: 1px solid #353538;
+}

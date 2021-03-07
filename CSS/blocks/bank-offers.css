@@ -1,0 +1,103 @@
+.bank-offers {
+	display: flex;
+	justify-content: space-between;
+
+}
+
+
+.bank-offers__item {
+	min-height: 470px;
+	background: #fff;
+	border-radius: 4px;
+	width: calc(100%/3 - 18px);
+	color: #000000;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+}
+
+.bank-offers__item:last-child {
+	margin-right: 0;
+}
+
+.bank-offers__item--theme--grey .bank-offers__header:before {
+	background: #a5a5a4;
+}
+
+.bank-offers__item--theme--blue .bank-offers__header:before {
+	background: #556180;
+}
+
+.bank-offers__item--theme--gold .bank-offers__header:before {
+	background: #978455;
+}
+
+.bank-offers__header {
+	min-height: 144px;
+	position: relative;
+}
+
+.bank-offers__header:before {
+	content: "";
+	width: 258px;
+	height: 298px;
+	display: block;
+	border-radius: 50%;
+	position: absolute;
+	top: -173px;
+	right: -80px;
+	background: #ccc;
+}
+
+.bank-offers__header-img {
+	position: absolute;
+	left: 50%;
+	top: 27%;
+	margin-left: -44px;
+	;
+}
+
+.bank-offers__content {
+	padding: 36px 21px;
+	padding-top: 33px;
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+}
+
+.bank-offers__title {
+	font-weight: bold;
+	font-size: 24px;
+	margin-bottom: 18px;
+	padding: 0 40px 0 0;
+}
+
+.bank-offers__prices-block {
+	width: 161px;
+
+}
+
+.bank-offers__prices-block:last-child {
+	margin-right: 0;
+}
+
+.bank-offers__price {
+	font-size: 36px;
+}
+
+
+.bank-offers__price-text {
+	color: #666666;
+}
+
+.bank-offers__prices {
+	margin-bottom: 48px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.bank-offers__btn-wrapper {
+	display: flex;
+	justify-content: center;
+	margin-top: auto;
+}

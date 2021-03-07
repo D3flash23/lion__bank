@@ -1,0 +1,39 @@
+.btn--gold {
+	background: #DFB56D;
+	border-radius: 3px;
+	padding: 20px 38px 16px 39px;
+	font-size: 14px;
+	color: #fff;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: none;
+	border: 0;
+	margin: 0;
+	outline: 0;
+	font-family: Open Sans;
+}
+
+.btn--gold:hover {
+	background: #d3a556;
+	box-shadow: 0px 8px 35px rgba(223, 181, 109, 0.35);
+}
+
+.btn--black {
+	background: #2B2B2B;
+	border-radius: 3px;
+	padding: 17px 38px 16px 39px;
+	font-size: 14px;
+	color: #fff;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: none;
+	border: 0;
+	margin: 0;
+	outline: 0;
+	font-family: Open Sans;
+}
+
+.btn--black:hover {
+	background: #2B2B2B;
+	box-shadow: 0px 8px 35px rgba(223, 181, 109, 0.35);
+}

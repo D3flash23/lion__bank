@@ -1,0 +1,22 @@
+.contacts {
+	font-style: normal;
+	text-align: right;
+
+}
+
+.contacts__phone {
+	text-decoration: none;
+	font-size: 26px;
+
+}
+
+.contacts__dpropdown-title {
+	font-size: 13px;
+	text-decoration: underline;
+	color: rgba(211, 165, 87, 1);
+}
+
+.contacts__title {
+	color: #9A9A9A;
+	font-size: 11px;
+}
