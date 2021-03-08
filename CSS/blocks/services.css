@@ -1,12 +1,12 @@
 .services {
-	padding-bottom: 57px;
+	padding-bottom: 83px;
 
 }
 
 .service {
 	display: flex;
 	text-decoration: none;
-	padding: 40px 0px 22px 30px;
+	padding: 98px 0px 22px 30px;
 }
 
 .service:hover {
@@ -16,7 +16,7 @@
 
 .service__img {
 	width: 41%;
-	margin-right: 4%;
+	margin-right: 5%;
 }
 
 .service__content {
@@ -32,10 +32,10 @@
 
 .service__desc {
 	line-height: 27px;
-	margin-bottom: 48px;
+	margin-bottom: 51px;
 
 }
 
 .services__item:nth-child(1) {
-	padding-bottom: 17px;
+	padding-bottom: 44px;
 }

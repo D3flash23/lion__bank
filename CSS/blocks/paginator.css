@@ -24,8 +24,7 @@
 
 .paginator--theme-light {
 	color: #202123;
-	padding: 26px 0 122px 12px;
-}
+	padding: 0px 0 122px 65px;
 }
 
 .paginator--theme-light .paginator__item--active .paginator__link {
