@@ -11,6 +11,7 @@
 	margin: 0;
 	outline: 0;
 	font-family: Open Sans;
+	width: 165px
 }
 
 
@@ -38,6 +39,7 @@
 	margin: 0;
 	outline: 0;
 	font-family: Open Sans;
+	width: 165px
 }
 
 .btn--black:hover {
