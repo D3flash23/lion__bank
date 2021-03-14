@@ -13,3 +13,11 @@
 	font-weight: bold;
 	padding-bottom: 65px;
 }
+
+.inner-section--form {
+	padding: 73px 0px 0px 5px;
+}
+
+.inner-section__title--form {
+	padding-bottom: 48px;
+}

@@ -64,7 +64,12 @@ p {
 	background: url(../../img/decor/lion-header.png) center top no-repeat, url(../../img/decor/lion-back.png) right bottom 307px no-repeat;
 }
 
+
 .container {
 	margin: 0 auto;
 	width: 1143px;
+}
+
+button {
+	cursor: pointer;
 }

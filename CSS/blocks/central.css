@@ -1,0 +1,49 @@
+.central {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	animation: bounce 1.5s;
+	opacity: 0;
+	animation-fill-mode: forwards;
+}
+
+.central__logo {
+	margin-bottom: 65px;
+}
+
+@keyframes bounce {
+	0% {
+		transform: translateY(0);
+	}
+
+	20% {
+		transform: translateY(-30px);
+	}
+
+	35% {
+		animation-timing-function: cubic-bezier(.11, .97, .55, 1);
+		transform: translateY(0);
+	}
+
+	55% {
+		transform: translateY(-15px);
+	}
+
+	65% {
+		transform: translateY(0);
+	}
+
+	70% {
+		animation-timing-function: cubic-bezier(.87, .11, .13, .96);
+		transform: translateY(4px);
+	}
+
+	80% {
+		transform: translateY(0);
+	}
+
+	100% {
+
+		opacity: 1;
+	}
+}

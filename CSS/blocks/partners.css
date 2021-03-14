@@ -18,6 +18,7 @@
 
 .partners__link:hover {
 	filter: grayscale(0);
+	transition: .7s linear;
 }
 
 .partners__item {
