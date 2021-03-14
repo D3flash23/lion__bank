@@ -1,7 +1,8 @@
 .btn--gold {
 	background: #DFB56D;
 	border-radius: 3px;
-	padding: 20px 38px 16px 39px;
+	padding: 17px;
+	;
 	font-size: 14px;
 	color: #fff;
 	font-weight: bold;
@@ -29,7 +30,7 @@
 .btn--black {
 	background: #2B2B2B;
 	border-radius: 3px;
-	padding: 17px 38px 16px 39px;
+	padding: 17px;
 	font-size: 14px;
 	color: #fff;
 	font-weight: bold;
