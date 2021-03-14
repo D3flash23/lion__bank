@@ -16,6 +16,7 @@
 	padding: 20px 30px;
 	font-size: 18px;
 	color: #1A1B1E;
+	outline: none;
 }
 
 .form__input::placeholder {
@@ -28,12 +29,12 @@
 }
 
 .form__input:focus {
-	outline: none;
-	box-shadow: 0 0 0 3px lightskyblue;
+	box-shadow: 0 0 0 1px lightskyblue;
 }
 
 .form__input--textarea {
 	height: 235px;
+	resize: none;
 }
 
 .form__controls {

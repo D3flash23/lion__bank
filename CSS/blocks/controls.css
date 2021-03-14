@@ -20,7 +20,33 @@
 	flex-wrap: wrap;
 }
 
+
 .controls__item {
 	margin-bottom: 10px;
 	margin-right: 10px;
+}
+
+.controls__item:nth-child(5) {
+	margin-right: 0px;
+}
+
+.controls__item:nth-child(6) {
+	margin-bottom: 0;
+}
+
+.controls__item:nth-child(7) {
+	margin-bottom: 0;
+}
+
+.controls__item:nth-child(8) {
+	margin-bottom: 0;
+}
+
+.controls__item:nth-child(9) {
+	margin-bottom: 0;
+}
+
+.controls__item:nth-child(10) {
+	margin-right: 0px;
+	margin-bottom: 0;
 }
