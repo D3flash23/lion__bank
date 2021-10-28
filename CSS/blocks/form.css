@@ -25,7 +25,7 @@
 }
 
 .form__input:last-child {
-	margin-right: 0px;
+	margin-right: 0;
 }
 
 .form__input:focus {
@@ -52,7 +52,7 @@
 }
 
 .form__btn:last-child {
-	margin-right: 0px;
+	margin-right: 0;
 }
 
 .form__btns {
