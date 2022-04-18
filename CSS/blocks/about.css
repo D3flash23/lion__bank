@@ -4,7 +4,7 @@
 }
 
 .about::before {
-	content: "";
+	content: '';
 	width: 490px;
 	height: 505px;
 	background: url(../../img/decor/chess.png) center center / cover no-repeat;

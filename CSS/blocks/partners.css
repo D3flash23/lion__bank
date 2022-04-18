@@ -13,18 +13,17 @@
 	align-items: center;
 	justify-content: center;
 	filter: grayscale(100%);
-
 }
 
 .partners__link:hover {
 	filter: grayscale(0);
-	transition: .7s linear;
+	transition: 0.7s linear;
 }
 
 .partners__item {
 	margin-left: 46px;
 }
 
-.partners__item:nth-child(4n+1) {
+.partners__item:nth-child(4n + 1) {
 	margin-left: 0px;
 }

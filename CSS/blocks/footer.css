@@ -1,14 +1,11 @@
 .footer {
-
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-
 }
 
 .footer-container__section {
 	min-height: 150px;
-
 }
 
 .footer__col {

@@ -15,16 +15,13 @@
 
 .hero__subtitle {
 	font-size: 18px;
-	color: #D3A557;
+	color: #d3a557;
 	margin-bottom: 40px;
 }
-
 
 .hero__container {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
 	min-height: 596px;
-
-
 }

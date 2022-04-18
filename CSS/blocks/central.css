@@ -21,7 +21,7 @@
 	}
 
 	35% {
-		animation-timing-function: cubic-bezier(.11, .97, .55, 1);
+		animation-timing-function: cubic-bezier(0.11, 0.97, 0.55, 1);
 		transform: translateY(0);
 	}
 
@@ -34,7 +34,7 @@
 	}
 
 	70% {
-		animation-timing-function: cubic-bezier(.87, .11, .13, .96);
+		animation-timing-function: cubic-bezier(0.87, 0.11, 0.13, 0.96);
 		transform: translateY(4px);
 	}
 
@@ -43,7 +43,6 @@
 	}
 
 	100% {
-
 		opacity: 1;
 	}
 }

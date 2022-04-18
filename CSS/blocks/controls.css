@@ -6,8 +6,8 @@
 	padding: 9px 15px;
 }
 
-.controls__checkbox:checked~.controls__tag {
-	background: #B9EAE4;
+.controls__checkbox:checked ~ .controls__tag {
+	background: #b9eae4;
 }
 
 .controls__checkbox {
@@ -19,7 +19,6 @@
 	display: flex;
 	flex-wrap: wrap;
 }
-
 
 .controls__item {
 	margin-bottom: 10px;

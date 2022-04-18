@@ -1,15 +1,13 @@
 .bank-offers {
 	display: flex;
 	justify-content: space-between;
-
 }
-
 
 .bank-offers__item {
 	min-height: 470px;
 	background: #fff;
 	border-radius: 4px;
-	width: calc(100%/3 - 18px);
+	width: calc(100% / 3 - 18px);
 	color: #000000;
 	overflow: hidden;
 	display: flex;
@@ -38,7 +36,7 @@
 }
 
 .bank-offers__header:before {
-	content: "";
+	content: '';
 	width: 258px;
 	height: 298px;
 	display: block;
@@ -73,7 +71,6 @@
 
 .bank-offers__prices-block {
 	width: 161px;
-
 }
 
 .bank-offers__prices-block:last-child {
@@ -83,7 +80,6 @@
 .bank-offers__price {
 	font-size: 36px;
 }
-
 
 .bank-offers__price-text {
 	color: #666666;

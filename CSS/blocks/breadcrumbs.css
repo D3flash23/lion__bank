@@ -5,7 +5,6 @@
 
 .breadcrumbs__link {
 	color: #d5b56d;
-	;
 	font-size: 14px;
 }
 
@@ -15,7 +14,7 @@
 }
 
 .breadcrumbs__item:after {
-	content: "/";
+	content: '/';
 	color: #999;
 	padding-left: 2px;
 	padding-right: 2px;

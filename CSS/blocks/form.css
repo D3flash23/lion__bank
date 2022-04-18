@@ -15,13 +15,12 @@
 	background: #fff;
 	padding: 20px 30px;
 	font-size: 18px;
-	color: #1A1B1E;
+	color: #1a1b1e;
 	outline: none;
 }
 
 .form__input::placeholder {
 	color: #666;
-
 }
 
 .form__input:last-child {

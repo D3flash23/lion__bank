@@ -3,7 +3,6 @@
 	display: flex;
 	justify-content: space-between;
 	min-height: 400px;
-
 }
 
 .news__item {
@@ -35,15 +34,12 @@
 
 .news__date {
 	font-size: 15px;
-
-
 }
 
 .news__title {
 	font-weight: bold;
 	font-size: 24px;
 	margin: 13px 0px 4px 0px;
-
 }
 
 .news__info {

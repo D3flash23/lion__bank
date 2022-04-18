@@ -1,6 +1,5 @@
 .services {
 	padding-bottom: 84px;
-
 }
 
 .service {
@@ -10,7 +9,7 @@
 }
 
 .service:hover {
-	background: #F5F5F5;
+	background: #f5f5f5;
 	border-radius: 3px;
 	transition: 1s;
 }
@@ -22,7 +21,6 @@
 
 .service__content {
 	flex: 1;
-
 }
 
 .service__title {
@@ -34,7 +32,6 @@
 .service__desc {
 	line-height: 27px;
 	margin-bottom: 48px;
-
 }
 
 .services__item:nth-child(2) {

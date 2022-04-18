@@ -7,8 +7,7 @@
 }
 
 .menu__item--active .menu__link {
-	color: #DFB56D;
-	;
+	color: #dfb56d;
 }
 
 .menu__item:last-child {
@@ -21,6 +20,6 @@
 }
 
 .menu__link:hover {
-	color: #DFB56D;
+	color: #dfb56d;
 	transition: 0.5s linear;
 }

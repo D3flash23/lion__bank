@@ -4,7 +4,6 @@
 	align-items: center;
 }
 
-
 .paginator__display {
 	margin-right: 22px;
 }
@@ -20,7 +19,7 @@
 
 .paginator__item--active .paginator__link:hover {
 	background: #353439;
-	transition: .3s linear;
+	transition: 0.3s linear;
 }
 
 .paginator--theme-light {
@@ -36,7 +35,7 @@
 .paginator--theme-light .paginator__link:hover {
 	color: #fff;
 	background: #353538;
-	transition: .3s linear;
+	transition: 0.3s linear;
 }
 
 .paginator__link {
